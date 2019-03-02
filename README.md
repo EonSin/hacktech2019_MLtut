@@ -1,5 +1,5 @@
 # Hacktech 2019 ML Workshop
-Code/links used in my workshop, for participants' reference
+## Code/links used in my workshop, for participants' reference
 
 - Download Anaconda (contains spyder, sklearn, numpy, pandas, etc.): https://www.anaconda.com/distribution/
 
