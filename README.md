@@ -15,3 +15,5 @@
 - Easy tutorial for keras: https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 
 - Yaser's Learning Systems course (CS156a): https://www.youtube.com/watch?v=mbyG85GZ0PI
+
+- Quick explanation of Tianqi Chen's XGBoost: https://www.youtube.com/watch?v=0Xc9LIb_HTw
