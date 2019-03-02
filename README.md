@@ -1,4 +1,4 @@
-## Hacktech 2019 ML Workshop
+# Hacktech 2019 ML Workshop
 Code/links used in my workshop, for participants' reference
 
 - Download Anaconda (contains spyder, sklearn, numpy, pandas, etc.): https://www.anaconda.com/distribution/
@@ -9,7 +9,7 @@ Code/links used in my workshop, for participants' reference
 
 - Install bayes_opt: Anaconda Prompt> pip install bayesian-optimization
 
-# Other things you can try
+## Other things you can try
 - Tensorflow (keras is packaged inside): https://www.tensorflow.org/install
 
 - Easy tutorial for keras: https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
