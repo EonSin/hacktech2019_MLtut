@@ -3,7 +3,7 @@
 
 - Download Anaconda (contains spyder, sklearn, numpy, pandas, etc.): https://www.anaconda.com/distribution/
 
-- Download dataset (loans): https://www.kaggle.com/brycecf/give-me-some-credit-dataset/downloads/give-me-some-credit-dataset.zip/1
+- Download dataset from **this repo** (the .csv file), got it from https://www.kaggle.com/brycecf/give-me-some-credit-dataset
 
 - Install xgboost: Anaconda Prompt> pip3 install xgboost
 
